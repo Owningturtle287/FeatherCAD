@@ -1,0 +1,12 @@
+{
+  "name": "feathercad",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A lightweight, mobile-first parametric sketch-to-3D CAD PWA.",
+  "scripts": {
+    "serve": "npx --yes http-server . -c-1",
+    "check": "node scripts/check.mjs"
+  },
+  "license": "MIT"
+}
