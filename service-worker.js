@@ -1,4 +1,4 @@
-const VERSION='feathercad-v1.0.1';
+const VERSION='feathercad-v1.0.2';
 const SHELL=[
   './','./index.html','./styles.css','./manifest.webmanifest',
   './assets/favicon.svg','./assets/logo-mark.svg','./assets/wordmark.svg','./assets/icon-192.png','./assets/icon-512.png','./assets/apple-touch-icon.png',
